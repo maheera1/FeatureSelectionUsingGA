@@ -26,6 +26,10 @@ The neural network's performance, using the features selected through the GA, wa
 Analysis
 The impact of the GA on model performance was evident from the comparison between the initial and final model accuracies. The analysis revealed that feature selection not only improved model accuracy but also potentially reduced training time and model complexity by focusing on fewer, more relevant features. The features identified by the GA as most informative offer insights into which facial landmarks are most indicative of emotional states, providing valuable knowledge for further research and application development.
 
+Link for Dataset
+
+RAVDESS Facial Landmark Training Dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-facial-landmark-tracking
+
 Conclusion
 The application of a GA for feature selection has proven to be an effective strategy for optimizing a neural network model aimed at emotion classification. This approach not only enhanced model accuracy but also provided a deeper understanding of the key features contributing to the prediction of emotional states. The findings underscore the value of feature selection in machine learning, particularly in domains where the interpretability and efficiency of models are crucial.
 
